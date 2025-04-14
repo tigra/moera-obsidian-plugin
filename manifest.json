@@ -1,0 +1,11 @@
+{
+	"id": "moera-obsidian-plugin",
+	"name": "Moera Obsidian Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "Oleksii Tigariev",
+	"authorUrl": "https://tigra.moera.blog",
+	"fundingUrl": "https://tigra.moera.blog",
+	"isDesktopOnly": false
+}
